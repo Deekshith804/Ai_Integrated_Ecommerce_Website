@@ -60,5 +60,5 @@ Features an **AI-powered chatbot**, instant cart updates, product filtering, and
 
 ---
 
-## 📂 Project Structure
+
 
